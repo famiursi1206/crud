@@ -1,0 +1,22 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Descripcion": "mouse",
+            "Precio": "30",
+            "Imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/640px-3-Tasten-Maus_Microsoft.jpg"
+        },
+        {
+            "Id": 2,
+            "Descripcion": "teclado",
+            "Precio": "40",
+            "Imagen": "https://static8.depositphotos.com/1007566/1056/v/450/depositphotos_10562105-stock-illustration-keyboard.jpg"
+        },
+        {
+            "Id": 3,
+            "Descripcion": "pantalla",
+            "Precio": "60",
+            "Imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LG_L194WT-SF_LCD_monitor.jpg/800px-LG_L194WT-SF_LCD_monitor.jpg"
+        }
+    ]
+}
